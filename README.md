@@ -26,14 +26,6 @@ I am a graduate student at San Jose State University with a passion for Machine 
 
 #
 
-### 📊 Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinhegde&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chinhegde&theme=gruvbox&border_radius=4.5) -->
-
-#
-
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    
