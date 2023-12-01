@@ -1,6 +1,6 @@
 # 💻 Chinmayi Hegde
 
-**`Computer Science Graduate Student at San Jose State University`**
+**`Computer Science Graduate Student at San Jose State University`** </br>
 **`Software Development/Data Science/Machine Learning`**
 
 I am a graduate student at San Jose State University with a passion for Machine Learning. I have extensive experience designing machine learning solutions from ETL pipelines, algorithms, databases, and websites, with a track record of successful projects in cloud-based data science and software development. 
