@@ -3,8 +3,11 @@
 **`Computer Science Graduate Student at San Jose State University`** </br>
 **`Software Development/Data Science/Machine Learning`**
 
-I am a graduate student at San Jose State University with a passion for Machine Learning. I have extensive experience designing machine learning solutions from ETL pipelines, algorithms, databases, and websites, with a track record of successful projects in cloud-based data science and software development. 
 ---
+I am a graduate student at [San Jose State University](https://sjsu.edu/cs) with a passion for Machine Learning. I have extensive experience designing machine learning solutions from ETL pipelines, algorithms, databases, and websites, with a track record of successful projects in cloud-based data science and software development. 
+
+[![LinkedIn](https://img.shields.io/badge/-Chinmayi%20Hegde-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/chinmayi-hegde) &ensp;
+[![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://chinhegde.github.io/)
 
 ### 🧰 Languages and Tools
 
@@ -43,3 +46,5 @@ A web scraping project that generated sitemaps was my first Python project. I ap
 Read my random thoughts: [blog](https://chinmayih.wordpress.com) 
 <br/>
 I used to paint when academia did not consume my whole life: [instagram](https://www.instagram.com/artwithchin/) and [youtube](https://www.youtube.com/artwithchin)
+
+![Profile Visitors Count](https://profile-counter.glitch.me/chinhegde/count.svg)
