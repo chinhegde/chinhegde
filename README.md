@@ -39,12 +39,12 @@ I am a graduate student at [San Jose State University](https://sjsu.edu/cs) with
 As a wide-eyed computer science undergraduate, I started on my coding journey at the age of 17. Initially, I started with C and C++ because that is what we were learning in school. I mainly practiced on HackerRank. My curiosity to solve "actual problems" led me to explore IoT first, and then web development, where I encountered HTML, CSS, and JavaScript - and eventually Python through Django. These languages opened up a new dimension, enabling the artist in me to create interactive and visually appealing websites.
 <br/>
 A web scraping project that generated sitemaps was my first Python project. I applied these concepts to scrape research paper citations based on specific topics, culminating in my first "ML project" – a super-basic recommendation system. This experience fueled my interest in machine learning, and I dove deeper into the field, experimenting with new technologies and constructing innovative projects.
-</details>
-
-#
-
+<br/>
 Read my random thoughts: [blog](https://chinmayih.wordpress.com) 
 <br/>
 I used to paint when academia did not consume my whole life: [instagram](https://www.instagram.com/artwithchin/) and [youtube](https://www.youtube.com/artwithchin)
 
 ![Profile Visitors Count](https://profile-counter.glitch.me/chinhegde/count.svg)
+</details>
+
+#
