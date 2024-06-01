@@ -25,9 +25,12 @@ Connect with me!
 
 <details>
  <summary><h3></h3></summary>
-Read more about my projects: [blog](https://chinmayih.wordpress.com) 
+ 
+Read more about my projects: [on my blog](https://chinmayih.wordpress.com) 
 <br/>
+
 ![Profile Visitors Count](https://profile-counter.glitch.me/chinhegde/count.svg)
+ 
 </details>
 
 #
