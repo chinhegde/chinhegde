@@ -1,6 +1,6 @@
 # 💻 Hi, I am Chinmayi! 👋
 
-**`MS Computer Science graduate - San Jose State University`** </br>
+**`MSCS grad`** **`Data Scientist`** </br>
 
 Looking for my next opportunity in Data Science/Data Engineering.
 ------------------------
