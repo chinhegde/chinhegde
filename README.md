@@ -6,7 +6,7 @@ Looking for my next opportunity in Data Science/Data Engineering.
 ------------------------
 
 *   🌍  I'm based in San Jose (open to relocation)
-*   ✉️  You can contact me at [chinmayilokeshwar.hegde@sjsu.edu](mailto:chinmayilokeshwar.hegde@sjsu.edu)
+*   ✉️  You can contact me at [chinmayi13hegde@gmail.com](mailto:chinmayi13hegde@gmail.com)
 *   🧠  I have ~3 years of professional experience working on data science and data engineering projects.
 
 View my projects [here.](https://github.com/chinhegde?tab=repositories)
@@ -23,6 +23,20 @@ Connect with me!
 #
 
 ## Experience
+
+#### Data Scientist II, Marketing
+Chegg · Full-time
+Sep 2024 - Nov 2024 · 3 months  
+Santa Clara, California, United States · Hybrid
+
+- Led incrementality tests using causal impact models for marketing campaigns across multiple social media platforms with Python (Databricks Notebook), and SQL (AWS Redshift) to assess campaign effectiveness.
+- Automated reporting for perks activation among Study Bundle subscribers using Redshift SQL, Python, Tableau and Amplitude.
+- Oversaw 5 A/B tests using SQL and Optimizely for the refund and payment pages to analyze key metrics, providing insights to reduce churn.
+- Conducted ad-hoc analysis for user engagement, identifying data discrepancies in experimentation pipeline and managed multiple weekly reports.
+
+Skills: Python · SQL · Experimentation · AWS Redshift · Causal Inference · Databricks Lakehouse · Neo4j
+
+---
 
 #### Instructional Student Assistant
 San Jose State University · Part-time
